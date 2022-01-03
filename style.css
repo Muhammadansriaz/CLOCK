@@ -3,7 +3,7 @@
     height: 40vw;
     width: 40vw;
     margin: auto;
-    background: url('clock.png');
+    background: url('clock.jpg');
     background-size: 100%;
     position: relative;
 }
@@ -17,7 +17,6 @@
     left: 48.79%;
     transform-origin: bottom;
     opacity: 0.8;
-    /* display: none; */
     
 }
 #min{
@@ -29,7 +28,6 @@
     top: 20%;
     left: 48.8%;
     transform-origin: bottom;
-    /* display: none; */
 
 }
 #sec{
@@ -42,5 +40,4 @@
     left: 49.13%;
     transform-origin: bottom;
     opacity: 0.8;
-    /* display: none; */
 }
